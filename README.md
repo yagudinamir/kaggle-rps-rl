@@ -1,1 +1,3 @@
-# kaggle-rps-rl
+```console
+python3 ./run.py
+```
